@@ -1,3 +1,3 @@
 # Curso HTML Básico - School Of Net 
 
-Aplicação hospedada no Heroku [visualizar projeto](https://html-basico.herokuapp.com/)
+Aplicação hospedada no Heroku [visualizar projeto](https://html-basico.herokuapp.com/){:target="_blank"}
